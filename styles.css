@@ -1,0 +1,29 @@
+p{ font-family:'Bree Serif',cursive;
+    color:red;
+}
+h1{
+    font-family:'Permanent Marker', sans-serif;
+    font-size:80px;
+}
+body{background-color:tan;
+    text-align:center;
+}
+h1{
+    color:purple;
+}
+img{border:50px groove red;
+    width:300px;
+}
+h2{color:blue;
+    font-family:'Shadows Into Light',cursive;
+}
+.movie{
+    color:pink;
+    }
+    .game{
+        color:yellow;
+    }
+    .class{
+        color:white;
+    }
+    
